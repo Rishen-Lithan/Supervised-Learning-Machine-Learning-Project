@@ -26,12 +26,6 @@ Three supervised learning algorithms were applied:
 
 Each model was trained and evaluated using accuracy and classification metrics. Comparisons are made based on performance across all three models.
 
-## 📂 Contents
-
-- `iris_random_forest.ipynb` – Random Forest implementation
-- `iris_svm.ipynb` – Support Vector Machine implementation
-- `iris_mlp.ipynb` – Multi-Layer Perceptron implementation
-
 ## 📌 Requirements
 
 - Python 3.x
